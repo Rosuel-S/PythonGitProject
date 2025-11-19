@@ -1,1 +1,1 @@
-    # print("хоххохохохохtttttt")git
+print("хоххохохохохttttttВЕТКАааааfffff")
